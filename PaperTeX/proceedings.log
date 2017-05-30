@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.10.31)  28 MAY 2017 17:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.10.31)  30 MAY 2017 13:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1026,8 +1026,8 @@ Package microtype Info: No adjustment of character kerning.
 File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 )
 ABD: EveryShipout initializing macros
-LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 15
-0.
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 14
+9.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
@@ -1036,74 +1036,74 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             `ztmcm' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 15
-0.
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 14
+9.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 15
-0.
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 14
+9.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 15
-0.
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 14
+9.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for U+txsya on input line 150.
+LaTeX Font Info:    Try loading font information for U+txsya on input line 149.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/txfonts/utxsya.fd
 File: utxsya.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Try loading font information for U+txsyb on input line 150.
+LaTeX Font Info:    Try loading font information for U+txsyb on input line 149.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/txfonts/utxsyb.fd
 File: utxsyb.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Try loading font information for U+lasy on input line 150.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 149.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 150.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 149.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
-LaTeX Font Info:    Try loading font information for U+txmia on input line 150.
+LaTeX Font Info:    Try loading font information for U+txmia on input line 149.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/txfonts/utxmia.fd
 File: utxmia.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Try loading font information for U+txsyc on input line 150.
+LaTeX Font Info:    Try loading font information for U+txsyc on input line 149.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/txfonts/utxsyc.fd
 File: utxsyc.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 150.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 149.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 150.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 149.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 150.
-LaTeX Font Info:    Try loading font information for TS1+ptm on input line 150.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 149.
+LaTeX Font Info:    Try loading font information for TS1+ptm on input line 149.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 150.
-LaTeX Font Info:    Try loading font information for T1+txtt on input line 150.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 149.
+LaTeX Font Info:    Try loading font information for T1+txtt on input line 149.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/txfonts/t1txtt.fd
@@ -1114,86 +1114,48 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 150.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 149.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 150.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 149.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 167.
  [1{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
 Non-PDF special ignored!
 
+] (./proceedings.bbl)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 247.
+ [2
+
 ]
-<figures/sigchi-logo.png, id=126, 241.8636pt x 55.407pt>
-File: figures/sigchi-logo.png Graphic file (type png)
-
-<use figures/sigchi-logo.png>
-Package pdftex.def Info: figures/sigchi-logo.png used on input line 251.
-(pdftex.def)             Requested size: 219.58264pt x 50.3029pt.
-
-<figures/map.png, id=137, 1023.825pt x 484.81125pt>
-File: figures/map.png Graphic file (type png)
- <use figures/map.png>
-Package pdftex.def Info: figures/map.png used on input line 350.
-(pdftex.def)             Requested size: 426.96915pt x 202.18419pt.
-LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 355.
-LaTeX Font Info:    Font shape `U/ccicons/m/n' will be
-(Font)              scaled to size 8.0pt on input line 355.
-
-[2 <./figures/sigchi-logo.png>]
-LaTeX Font Info:    Try loading font information for T1+txr on input line 416.
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/txfonts/t1txr.fd
-File: t1txr.fd 2000/12/15 v3.1
-)
-LaTeX Font Info:    Try loading font information for TS1+txr on input line 416.
-
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/txfonts/ts1txr.fd
-File: ts1txr.fd 2000/12/15 v3.1
-)
-Underfull \hbox (badness 1057) in paragraph at lines 448--452
-\T1/ptm/m/n/10 (+20) For more in-for-ma-tion and links to in-struc-tions and re
--
- []
-
-[3 <./figures/map.png>] (./proceedings.bbl
-Underfull \vbox (badness 1253) has occurred while \output is active []
-
-) [4]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 570.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 570.
-
-(./proceedings.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 570.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 570.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 247.
+ (./proceedings.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 247.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 247.
 Package rerunfilecheck Info: File `proceedings.out' has not changed.
-(rerunfilecheck)             Checksum: D8BE2B24D572F4D4DCECFFB3F0F35C6D;1361.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 570.
+(rerunfilecheck)             Checksum: C77DC49D057C3C55DFA4FF771B383208;362.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 247.
  ) 
 Here is how much of TeX's memory you used:
- 19636 strings out of 493089
- 357817 string characters out of 6134841
- 463815 words of memory out of 5000000
- 22465 multiletter control sequences out of 15000+600000
- 84240 words of font info for 207 fonts, out of 8000000 for 9000
+ 19355 strings out of 493089
+ 354397 string characters out of 6134841
+ 447150 words of memory out of 5000000
+ 22352 multiletter control sequences out of 15000+600000
+ 68113 words of font info for 136 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,10n,56p,552b,573s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,10n,56p,421b,573s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
-exlive/2015/texmf-dist/fonts/type1/public/ccicons/ccicons.pfb></usr/local/texli
-ve/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texliv
-e/2015/texmf-dist/fonts/type1/public/txfonts/rtcxr.pfb></usr/local/texlive/2015
-/texmf-dist/fonts/type1/public/txfonts/t1xbtt.pfb></usr/local/texlive/2015/texm
-f-dist/fonts/type1/public/txfonts/t1xtt.pfb></usr/local/texlive/2015/texmf-dist
-/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/
-type1/urw/helvetic/uhvro8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/
-urw/times/utmb8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/
-utmr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmri8a.pf
-b>
-Output written on proceedings.pdf (4 pages, 477662 bytes).
+exlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/te
+xlive/2015/texmf-dist/fonts/type1/public/txfonts/t1xbtt.pfb></usr/local/texlive
+/2015/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2015/t
+exmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2015/texmf-dist/
+fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type
+1/urw/times/utmri8a.pfb>
+Output written on proceedings.pdf (2 pages, 59746 bytes).
 PDF statistics:
- 281 PDF objects out of 1000 (max. 8388607)
- 258 compressed objects within 3 object streams
- 74 named destinations out of 1000 (max. 500000)
- 31439 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 90 PDF objects out of 1000 (max. 8388607)
+ 79 compressed objects within 1 object stream
+ 20 named destinations out of 1000 (max. 500000)
+ 19525 words of extra memory for PDF output out of 20736 (max. 10000000)
 
